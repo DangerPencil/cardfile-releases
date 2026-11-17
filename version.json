@@ -1,0 +1,9 @@
+{
+  "version": "0.1.0",
+  "buildNumber": 1,
+  "notes": "First version: type in cards, sort them into categories and tags, search, and tap to call, map or email.",
+  "apkUrl": "https://github.com/DangerPencil/cardfile-releases/releases/download/v0.1.0/Cardfile-0.1.0.apk",
+  "apkSha256": "098bd230ea0788a17aee3996e449397b75717ceb150ce9a69231b147d9c58417",
+  "windowsUrl": "https://github.com/DangerPencil/cardfile-releases/releases/download/v0.1.0/Cardfile-Setup-0.1.0.exe",
+  "windowsSha256": "120b642f22b45cfed417826b2cb16756635f1d189b364b170fb64e1a1bfddf6b"
+}
